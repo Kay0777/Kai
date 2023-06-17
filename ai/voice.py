@@ -6,7 +6,7 @@ class KaiVoice:
     self.__engine = pyttsx3.init()
 
     voices = self.__engine.getProperty('voice')
-    print(voices)
+    # print(voices)
     # self.__engine.setProperty('voice', voices[1].id)
 
   def speak(self, speache):
