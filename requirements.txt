@@ -1,0 +1,9 @@
+Package    Version
+---------- -------
+comtypes   1.2.0
+pip        23.1.2
+PyAudio    0.2.13
+pypiwin32  223
+pyttsx3    2.90
+pywin32    306
+setuptools 67.8.0
